@@ -18,4 +18,5 @@ Educational Content: Access articles, videos, and tips on coffee brewing techniq
 
 The coffee app aims to provide a comprehensive and enjoyable coffee experience, catering to both seasoned coffee connoisseurs and those new to the world of coffee, all within a single, convenient mobile application.
 
-![Uploading video_2024-02-21_11-33-41.gif…]()
+![video_2024-02-21_11-33-41](https://github.com/BeleShew/custom_nav_bar/assets/46049633/26faeab8-8f83-4f38-8d16-fb350822ad4c)
+
